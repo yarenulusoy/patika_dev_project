@@ -1,4 +1,3 @@
-[Patika.dev](https://www.patika.dev/tr) 
 
 import java.util.Scanner;
 public class Ortalama{
